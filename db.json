@@ -5,70 +5,70 @@
       "name": "Bella",
       "breed": "Ragdoll",
       "age": 3,
-      "image": "https://example.com/cat5.jpg"
+      "image": "https://cdn2.thecatapi.com/images/a2p.jpg"
     },
     {
       "id": "e41f830e-be23-48bc-9c3e-668d3b467f7c",
       "name": "Chloe",
       "breed": "Bengal",
       "age": 9,
-      "image": "https://example.com/cat5.jpg"
+      "image": "https://cdn2.thecatapi.com/images/b7k.jpg"
     },
     {
       "id": "a4ab838d-7b9b-45d6-8b34-de8d4fb03fd0",
       "name": "Fluffy",
       "breed": "British Shorthair",
       "age": 7,
-      "image": "https://example.com/cat8.jpg"
+      "image": "https://cdn2.thecatapi.com/images/2-AuRFDa9.jpg"
     },
     {
       "id": "d1b19cec-3171-4cda-9cfe-1da941bd0786",
       "name": "Chloe",
       "breed": "Birman",
       "age": 10,
-      "image": "https://example.com/cat6.jpg"
+      "image": "https://cdn2.thecatapi.com/images/ui.jpg"
     },
     {
       "id": "bdd295aa-987e-44c3-b4c2-6b1ef046e008",
       "name": "Whiskers",
       "breed": "Maine Coon",
       "age": 3,
-      "image": "https://example.com/cat9.jpg"
+      "image": "https://cdn2.thecatapi.com/images/b4e.jpg"
     },
     {
       "id": "1bfa505d-c00f-4456-be3f-4ed649249bdb",
       "name": "Mittens",
       "breed": "Scottish Fold",
       "age": 10,
-      "image": "https://example.com/cat10.jpg"
+      "image": "https://cdn2.thecatapi.com/images/MTUwMDU4MA.jpg"
     },
     {
       "id": "9b004b53-eed6-4d32-a40d-609aa355fb9f",
       "name": "Simba",
       "breed": "Scottish Fold",
       "age": 1,
-      "image": "https://example.com/cat9.jpg"
+      "image": "https://cdn2.thecatapi.com/images/76u.jpg"
     },
     {
       "id": "5aa514b8-084b-4a98-b33f-d4fa170ff030",
       "name": "Whiskers",
       "breed": "Abyssinian",
       "age": 8,
-      "image": "https://example.com/cat8.jpg"
+      "image": "https://cdn2.thecatapi.com/images/5ad.jpg"
     },
     {
       "id": "a3d521c2-824f-4517-b17d-d0e89aa4a214",
       "name": "Bella",
       "breed": "Siamese",
       "age": 11,
-      "image": "https://example.com/cat3.jpg"
+      "image": "https://cdn2.thecatapi.com/images/163.jpg"
     },
     {
       "id": "d3dff93e-26a1-4c2f-a9ea-738b44c97bfb",
       "name": "Simba",
       "breed": "Scottish Fold",
       "age": 5,
-      "image": "https://example.com/cat8.jpg"
+      "image": "https://cdn2.thecatapi.com/images/dka.jpg"
     }
   ],
   "dogs": [
@@ -77,70 +77,70 @@
       "name": "Max",
       "breed": "German Shepherd",
       "age": 6,
-      "image": "https://example.com/dog10.jpg"
+      "image": "https://images.dog.ceo/breeds/waterdog-spanish/20181023_072736.jpg"
     },
     {
       "id": "03d40aef-161e-4ef1-99ee-6058d63ff4cb",
       "name": "Buddy",
       "breed": "Bulldog",
       "age": 7,
-      "image": "https://example.com/dog7.jpg"
+      "image": "https://images.dog.ceo/breeds/clumber/n02101556_5771.jpg"
     },
     {
       "id": "5d7e9e2c-c9eb-41a8-b36f-bd621ca8f19e",
       "name": "Rocky",
       "breed": "Dachshund",
       "age": 6,
-      "image": "https://example.com/dog5.jpg"
+      "image": "https://images.dog.ceo/breeds/beagle/n02088364_15787.jpg"
     },
     {
       "id": "b399b734-a4d1-47e2-a62d-d8ef8520ada9",
       "name": "Molly",
       "breed": "Poodle",
       "age": 13,
-      "image": "https://example.com/dog4.jpg"
+      "image": "https://images.dog.ceo/breeds/terrier-dandie/n02096437_2568.jpg"
     },
     {
       "id": "9bdacb13-75e2-4236-a477-b39f381d60a4",
       "name": "Bailey",
       "breed": "German Shepherd",
       "age": 10,
-      "image": "https://example.com/dog4.jpg"
+      "image": "https://images.dog.ceo/breeds/shiba/shiba-2.jpg"
     },
     {
       "id": "72aa011a-2c81-4f0a-8e51-9833d0b77bac",
       "name": "Lucy",
       "breed": "Dachshund",
       "age": 4,
-      "image": "https://example.com/dog1.jpg"
+      "image": "https://images.dog.ceo/breeds/havanese/00100trPORTRAIT_00100_BURST20191222103956878_COVER.jpg"
     },
     {
       "id": "4d7ded91-a0c9-4f7a-9ff2-f9a41ed95ce1",
       "name": "Daisy",
       "breed": "Golden Retriever",
       "age": 1,
-      "image": "https://example.com/dog9.jpg"
+      "image": "https://images.dog.ceo/breeds/briard/n02105251_8345.jpg"
     },
     {
       "id": "a165b401-45fd-4e8f-8c38-0438a131ba12",
       "name": "Bella",
       "breed": "Golden Retriever",
       "age": 3,
-      "image": "https://example.com/dog7.jpg"
+      "image": "https://images.dog.ceo/breeds/coonhound/n02089078_185.jpg"
     },
     {
       "id": "15a90350-03a2-4638-b38a-ed8b9ea64b0c",
       "name": "Buddy",
       "breed": "Golden Retriever",
       "age": 10,
-      "image": "https://example.com/dog6.jpg"
+      "image": "https://images.dog.ceo/breeds/bouvier/n02106382_2553.jpg"
     },
     {
       "id": "99801d11-e2f2-4ca5-b509-430ed1500cb5",
       "name": "Charlie",
       "breed": "Yorkshire Terrier",
       "age": 8,
-      "image": "https://example.com/dog1.jpg"
+      "image": "https://images.dog.ceo/breeds/poodle-miniature/n02113712_448.jpg"
     }
   ]
 }
